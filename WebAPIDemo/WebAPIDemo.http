@@ -1,0 +1,6 @@
+@WebAPIDemo_HostAddress = http://localhost:5175
+
+GET {{WebAPIDemo_HostAddress}}/shirts
+Accept: application/json
+
+###
